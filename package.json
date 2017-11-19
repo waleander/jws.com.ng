@@ -1,0 +1,9 @@
+{
+  "name": "jws.com.ng",
+  "version": "1.0.0",
+  "description": "The official website of Jaracare web services",
+  "main": "index.js",
+  "repository": "https://github.com/waleander/jws.com.ng",
+  "author": "Akin Oluyele <waleander@gmail.com>",
+  "license": "MIT"
+}
